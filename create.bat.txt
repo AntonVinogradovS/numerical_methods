@@ -1,0 +1,1 @@
+pyuic.exe -x C:\Users\rusan\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\work\forma.ui -o C:\Users\rusan\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\work\forma.py
